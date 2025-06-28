@@ -186,4 +186,9 @@ RobotStudio representa la herramienta oficial desarrollada por ABB específicame
 
 **RobotStudio** constituye la elección óptima para proyectos que involucran exclusivamente robots ABB, ofreciendo un nivel superior de detalle, precisión y funcionalidad gracias a su integración nativa con el ecosistema tecnológico de ABB. Su especialización permite explotar al máximo las capacidades avanzadas de los sistemas ABB.
 
+## SIMULACIÓN E IMPLEMENTACIÓN
+
+[![Watch the video](https://img.youtube.com/vi/I4TvqNSFsag/maxresdefault.jpg)](https://youtu.be/I4TvqNSFsag)
+https://youtu.be/I4TvqNSFsag
+
 </div>
